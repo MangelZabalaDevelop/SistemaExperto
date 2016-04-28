@@ -7,6 +7,8 @@ import Rule.*;
  *
  * @author Mangel
  */
+
+/*Prueba de ejecucion  */
 public class SistemaExperto {
     
     /* Creamos el Objeto  */
